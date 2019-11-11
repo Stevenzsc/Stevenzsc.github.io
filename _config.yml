@@ -95,8 +95,4 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/Stevenzsc/Stevenzsc.github.io
-  # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
-
+  type: ''
